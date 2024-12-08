@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+
+.container{
+    max-width: 1440px;
+    height: 82px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+
+.img1{
+    width: 56px;
+    height: 46px;
+    margin-top: 26px;
+    margin-left: 57px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.img2{
+    width: 30px;
+    height: 30px;
+    margin-top: -44px;
+    margin-left: 1027px;
+    padding: 2.54px 2.5px 2.54px 2.55px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    width: 76px;
+    height: 15px;
+    margin-top: -23px;
+    margin-left: 1071px;
+    gap: 0px;
+    opacity: 0px;
+        display: flex;
+}
+
+.img3{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1124px;
+    display: flex;
+    
+}
+
+.div1{
+    width: 192px;
+    height: 82px;
+    margin-left: 1191px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(241, 169, 0, 1);
+    display: flex;
+    margin-top: -54px;
+}
+
+.span1{
+    width: 122px;
+    height: 32px;
+    margin-top: 26px;
+    margin-left: 35px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'inter';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar{
+    width: 1440px;
+height: 44px;
+background-color: rgba(34, 34, 34, 1);
+display: flex;
+
+
+}
+
+nav{
+    display: flex;
+
+}
+
+ul{
+    display: flex;
+    gap: 128px;
+    margin-left: 320px;
+    align-items: center;
+}
+
+.img4{
+    width: 10px;
+    height: 10px;
+    margin-left: -840px;
+    display: flex;
+    
+}
+
+
+.imgbig{
+    background-image:url("./asets/images/image\ 5.png");
+    height: 800px;
+    background-repeat: no-repeat;
+    margin-top: 43px;
+    width: 1500px;
+    display: flex;
+}
+
+.pc{
+    width: 235px;
+    height: 73px;
+    margin-top: 349px;
+    margin-left: 453px;
+    gap: 0px;
+    opacity: 0px;
+    
+    background-color: rgba(241, 169, 0, 1);
+}
+
+.span2{
+    width: 147px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-top: 14px;
+    display: flex;
+    margin-left: 90px;
+    color: black;
+}
+
+
+.console{
+    width: 235px;
+    height: 73px;
+    margin-top: 349px;
+    margin-left: 65px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(0, 0, 0, 1);
+    display: flex;
+}
+
+.span3{
+    width: 199px;
+    height: 31px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-top: 10px;
+    margin-left: 18px;        
+}
+
+.erangle{
+    width: 966px;
+    height: 202px;
+    margin-top: -350px;
+    margin-left: 263px;
+    gap: 0px;
+    border-radius: 10px ;
+    opacity: 0px;
+    background-color: rgba(241, 169, 0, 0.33);
+    display: flex;
+}
+
+.span4{
+    width: 922px;
+    height: 140px;
+    font-family: 'Inter';
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+
+}
+
+.containe{
+    max-width: 1440px;
+    height: 101px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+
+.ks{
+    text-align: center;
+}
+
+.img5{
+    width: 56px;
+    height: 46px;
+    MARGIN-top: 28px;
+    margin-left: 57px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img6{
+    width: 24px;
+    height: 24px;
+    margin-top: 30px;
+    margin-left: 1040px;
+    padding: 2px 2.01px 2px 1.99px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img7{
+    width: 24px;
+    height: 24px;
+    margin-left: 58px;
+    margin-top: 30px;
+}
+
+.img8{
+    width: 24px;
+    height: 24px;
+    margin-left: 58px;
+}
